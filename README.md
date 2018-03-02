@@ -1,7 +1,7 @@
 ## Linear Regression with Gradient Descent (C++)
 
 Takes in x and y values, performs linear regression using gradient descent. Each
-iteration is printed to the console with the final resutl displayed at the end.
+iteration is printed to the console with the final result is displayed at the end.
 Ex:
 gradient_a:     0.0544319 , gradient_b: -0.196517
 Error 1.39632
